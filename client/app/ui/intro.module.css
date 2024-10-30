@@ -1,0 +1,12 @@
+.container {
+    background-image: url('../images/black-curves-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+
+.bgGradient {
+    background: linear-gradient(to right, #000000, #010e27, #000000);
+}
